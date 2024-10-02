@@ -8,7 +8,7 @@ If you prefer unzipped SVD files, check out the [modm-io/cmsis-svd-stm32][repo] 
 Here is the list of the SVD version for each STM32 family:
 
 <!--families-->
-- STM32C0: v1.1
+- STM32C0: v1.2
 - STM32F0: v1.3
 - STM32F1: v1.2
 - STM32F2: v1.2
